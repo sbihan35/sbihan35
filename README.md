@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stéphane Bihan
-- 🌱 I’m currently teachins computer science
+- 🌱 I’m currently teaching computer sciences
 - 📫 You can reach me at s.bihan@assomption.bzh
 
 <!---
